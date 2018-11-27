@@ -1,0 +1,11 @@
+Connect Application is used for connecting to a switch or route which placed on administarion room (itgeeks)
+networking Lab for student that can use them to work thier homeworks or practice.
+Is [Option]... [Device Name]
+            'This program is used for itgeeks pc labs for manitoring networking devices
+            'Mandatory argument to long optns are mandatory for short options too.
+            '-c', '--connect'                 You can select only one device for a while.
+            '-r','--reserve'                 Reserve a device for a while for using it.
+            '-s', '--showOp'                 Show type of selectable device for users.
+	          '-h', '--help'                   Help you for remember the usage of program.
+	          '-s', '--show'		     Show Number of devices which can use to practise
+            version 1.0
